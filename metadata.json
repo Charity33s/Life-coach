@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Life Coach",
+  "description": "An intelligent daily routine tracker and AI-powered life coach designed to help you optimize your habits, manage your schedule, and improve your overall well-being.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
